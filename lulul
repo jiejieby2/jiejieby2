@@ -1,0 +1,3 @@
+   System.out.print("durable transactional "); 
+    System.out.print("jndiCtxFactory connFactory "); 
+    System.out.print("providerURL topicName"); 
