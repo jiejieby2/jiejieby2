@@ -1,0 +1,4 @@
+            String postalcode = aUPD.getZipCode(); 
+            String country = aUPD.getCountry(); 
+            String phone = aUPD.getFixedPhone(); 
+ 
