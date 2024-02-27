@@ -1,0 +1,4 @@
+            // Creating email information  
+            String email = aUPD.getMailAddress(); 
+ 
+            // Creating msisdn in this case Unique Device Id () 
