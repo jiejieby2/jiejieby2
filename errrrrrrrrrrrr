@@ -1,0 +1,7 @@
+        client, err := bigquery.NewClient(ctx, projectID)
+        if err != nil {
+                return fmt.Errorf("bigquery.NewClient: %w", err)
+        }
+        defer client.Close()
+
+        q := client.Query(
