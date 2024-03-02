@@ -1,0 +1,6 @@
+import face_recognition
+ 
+# Threshold = 0.65 # 人脸置信度阈值
+ 
+#windows用户：
+#Just install dlib and face_recognition (not always on the newest version):
