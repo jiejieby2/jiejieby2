@@ -1,0 +1,5 @@
+                else:
+                    if not(delay % 3):
+                        if e3_destroy_index == 0:
+                            enemy3_down_sound.play()
+                        screen.blit(each.destroy_images[e3_destroy_index], each.rect)
