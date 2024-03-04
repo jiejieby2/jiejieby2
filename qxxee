@@ -1,0 +1,5 @@
+                        e3_destroy_index = (e3_destroy_index+1)%6
+                        if e3_destroy_index == 0:
+                            me_down_sound.stop()
+                            score += 10000
+                            each.reset()
