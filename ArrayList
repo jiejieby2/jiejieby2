@@ -1,0 +1,7 @@
+package whu.iss.sric.view;
+ 
+import java.util.ArrayList;
+import java.util.List;
+ 
+import whu.iss.sric.android.R;
+import android.app.Activity;
