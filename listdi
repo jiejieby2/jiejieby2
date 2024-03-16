@@ -1,0 +1,4 @@
+pic_list = []                     
+for item in os.listdir("small_pictures"):
+    if item.endswith(".jpg") or item.endswith(".JPG") : 
+        pic_list.append(item)    
