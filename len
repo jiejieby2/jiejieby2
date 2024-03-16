@@ -1,0 +1,4 @@
+total = len(pic_list)  
+x=0
+y=0
+for i in range(x_index*y_index):
