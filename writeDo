@@ -1,0 +1,5 @@
+        dos.writeLong(j);
+        dos.writeFloat(f);
+        dos.writeDouble(d);
+        dos.writeBoolean(flag);
+        dos.writeChar(a);
