@@ -1,0 +1,4 @@
+<dependency <groupId>org.apache.skywalking</groupId>
+    <artifactId>server-core</artifactId>
+    <version>8.2.0</version>
+</dependency>
